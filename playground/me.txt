@@ -1,0 +1,5 @@
+{{#user}}
+Name: Srishti Pal
+Skills: HTML, CSS, JS, React JS, Bootstrap, Git
+Email: palsris692@gmail.com
+{{/user}}
